@@ -1,9 +1,3 @@
-Excelente base — o documento já está **conceitualmente correto**. Vou **refinar linguagem, deixar mais pedagógico**, alinhar termos (sem mudar sua intenção) e **adicionar as sessões solicitadas**, com foco em **decisão arquitetural consciente**, não dogmática.
-
-Abaixo está o **conteúdo pronto para substituir / estender o `readme.md`**.
-
----
-
 # Ports and Adapters — Arquitetura Hexagonal
 
 Este diretório documenta a intenção da estrutura **Ports and Adapters** (também conhecida como **Arquitetura Hexagonal**, termo cunhado por *Alistair Cockburn*).
